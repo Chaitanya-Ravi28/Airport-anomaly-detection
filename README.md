@@ -56,5 +56,3 @@ are logged into a **tamper-proof blockchain ledger** using:
 Result: `security_ledger.json`
 
 
-##  Repository Structure
-
