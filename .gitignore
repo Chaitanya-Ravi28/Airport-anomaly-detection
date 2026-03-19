@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# YOLO weights
+*.pt
+*.pth
+
+# Datasets
+datasets/
+data/
+CLCXray/
+Avenue/
+
+# YOLO runs
+runs/
+runs/detect/
+runs/train/
+
+# Outputs
+outputs/
+results/
+
+# Logs
+*.log
+
+# Blockchain logs
+security_ledger.json
+
+# Ignore all numpy except sample
+*.npy
+!data_sample/*.npy
+
+# IDE
+.vscode/
+.idea/
